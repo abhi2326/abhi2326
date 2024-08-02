@@ -3,12 +3,6 @@
 <h3 align="center">"Data Whisperer: Turning Raw Data into Cool Insights and Slick Solutions, One Algorithm at a Time"</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi2326&label=Profile%20views&color=0e75b6&style=flat" alt="abhi2326" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi2326" alt="abhi2326" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/abhijeet_2709" target="blank"><img src="https://img.shields.io/twitter/follow/abhijeet_2709?logo=twitter&style=for-the-badge" alt="abhijeet_2709" /></a> </p>
-
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **PowerBi, Tableau, Python, Html and CSS**
@@ -20,6 +14,12 @@
 - 📫 How to reach me **abhijeet.sri11@gmail.com**
 
 - ⚡ Fun fact **I love to code when its apocalypse**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi2326&label=Profile%20views&color=0e75b6&style=flat" alt="abhi2326" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi2326" alt="abhi2326" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/abhijeet_2709" target="blank"><img src="https://img.shields.io/twitter/follow/abhijeet_2709?logo=twitter&style=for-the-badge" alt="abhijeet_2709" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
