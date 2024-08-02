@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Abhijeet Srivastava</h1>
 <h3 align="center">"Data Whisperer: Turning Raw Data into Cool Insights and Slick Solutions, One Algorithm at a Time</h3>
-img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif"
+(img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi2326&label=Profile%20views&color=0e75b6&style=flat" alt="abhi2326" /> </p>
 
