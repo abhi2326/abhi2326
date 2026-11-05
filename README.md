@@ -87,40 +87,56 @@ fun_fact:    "I'd keep writing SQL through the apocalypse."
 
 ## Featured projects
 
-<!-- Replace each REPO_NAME with a real repository; one strong project per area works best -->
 <p align="center">
-  <a href="https://github.com/abhi2326/ANALYTICS_REPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi2326&repo=ANALYTICS_REPO&bg_color=0a1328&title_color=f5b942&text_color=cfe0ff&icon_color=7fe3d6&hide_border=true" alt="analytics project" /></a>
-  <a href="https://github.com/abhi2326/DATA_ENG_REPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi2326&repo=DATA_ENG_REPO&bg_color=0a1328&title_color=f5b942&text_color=cfe0ff&icon_color=7fe3d6&hide_border=true" alt="data engineering project" /></a>
+  <a href="https://github.com/abhi2326/upi-pulse-digital-payments-intelligence"><img src="./assets/projects/upi-pulse.svg" width="49%" alt="UPI Pulse" /></a>
+  <a href="https://github.com/abhi2326/ondc-360-open-commerce-network-analytics"><img src="./assets/projects/ondc-360.svg" width="49%" alt="ONDC 360" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/abhi2326/ML_REPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi2326&repo=ML_REPO&bg_color=0a1328&title_color=f5b942&text_color=cfe0ff&icon_color=7fe3d6&hide_border=true" alt="ML project" /></a>
-  <a href="https://github.com/abhi2326/WEB_REPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi2326&repo=WEB_REPO&bg_color=0a1328&title_color=f5b942&text_color=cfe0ff&icon_color=7fe3d6&hide_border=true" alt="web project" /></a>
+  <a href="https://github.com/abhi2326/ecommerce-sales-customer-analytics"><img src="./assets/projects/ecommerce-analytics.svg" width="49%" alt="E-commerce Sales and Customer Analytics" /></a>
+  <a href="https://github.com/abhi2326/Sql-Query-Optimizer"><img src="./assets/projects/sql-optimizer.svg" width="49%" alt="SQL Query Optimizer" /></a>
 </p>
+<p align="center">
+  <a href="https://github.com/abhi2326/credit-card-fraud-detection-advanced"><img src="./assets/projects/fraud-detection.svg" width="49%" alt="Credit Card Fraud Detection" /></a>
+  <a href="https://github.com/abhi2326/airaware-india-urban-air-quality-forecasting"><img src="./assets/projects/airaware.svg" width="49%" alt="AirAware India" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/abhi2326/Anticheating_detector"><img src="./assets/projects/ai-proctoring.svg" width="49%" alt="AI Proctoring System" /></a>
+  <a href="https://github.com/abhi2326/LLM_From_Scratch"><img src="./assets/projects/rag-assistant.svg" width="49%" alt="LLM Knowledge Assistant" /></a>
+</p>
+
+<details>
+<summary><b>More projects</b></summary>
+<br/>
+
+| Project | What it does | Stack |
+|---|---|---|
+| [MSME CashFlow IQ](https://github.com/abhi2326/msme-cashflow-iq-gst-invoice-intelligence) | Invoice ageing, overdue receivables and working-capital risk for MSMEs | SQL, Python, Power BI, DAX |
+| [D2C RetentionOS](https://github.com/abhi2326/d2c-retentionos-consumer-growth-analytics) | Ties acquisition spend to cohorts, repeat purchases and contribution margin | SQL, Excel, Power BI, DAX |
+| [ChargeGrid India](https://github.com/abhi2326/chargegrid-india-ev-infrastructure-intelligence) | EV charger utilisation, uptime and expansion opportunities | SQL, Python, Power BI, Plotly |
+| [AI Resume Screening Tool](https://github.com/abhi2326/Resume-Screening-Tool) | Parses resumes and ranks candidates against job requirements | Python, NLP, ML |
+| [AI Trading Agent](https://github.com/abhi2326/Building-an-AI-Agent-Autonomous-trading-decisions) | Reinforcement-learning agent that makes autonomous trading decisions | Python, RL |
+| [Workout Counter](https://github.com/abhi2326/Workout-Counter) | Counts workout reps in real time from your webcam using pose detection | Python, Computer vision |
+| [Gesture Control Calculator](https://github.com/abhi2326/Gesture-Control-Calculator) | Touch-free calculator controlled by hand gestures | OpenCV, MediaPipe |
+| [Portfolio](https://github.com/abhi2326/Portfolio_Abhijeet) | My personal portfolio website | HTML, CSS, JavaScript |
+
+</details>
 
 <br/>
 
 ## GitHub analytics
 
+<!-- These cards are generated inside this repo by .github/workflows/summary-cards.yml -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhi2326&show_icons=true&count_private=true&include_all_commits=true&bg_color=0a1328&title_color=f5b942&text_color=cfe0ff&icon_color=7fe3d6&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi2326&layout=compact&langs_count=8&bg_color=0a1328&title_color=f5b942&text_color=cfe0ff&hide_border=true" alt="top languages" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="contributions and profile details" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="most committed languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abhi2326&background=0a1328&ring=f5b942&fire=f5b942&currStreakLabel=f5b942&sideLabels=cfe0ff&currStreakNum=ffffff&sideNums=ffffff&dates=8fa3cc&stroke=24345c&hide_border=true" alt="streak" />
 </p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhi2326&bg_color=0a1328&color=cfe0ff&line=f5b942&point=7fe3d6&area=true&area_color=f5b942&hide_border=true" alt="contribution graph" />
-</p>
-
-<details>
-<summary><b>🏆 Trophies</b></summary>
-<br/>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhi2326&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
-</p>
-</details>
 
 <br/>
 
